@@ -1,0 +1,152 @@
+﻿@using WorldCup.CustomHtmlHelpers
+@using WorldCup.View.Model
+@model IEnumerable<TeamViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div>
+    <h1 id="nationalTeamHeader">WC 2018 National Teams</h1>
+</div>
+
+<div>
+    @using (Html.BeginForm("Index", "Teams", FormMethod.Get))
+    {
+        <div class="teamSeacrh">
+            <div class="tsLeft">
+                <b>Search By:</b>
+                @Html.RadioButton("searchByTeam", "Name", true) <text>Name</text>
+                @Html.RadioButton("searchByTeam", "Continent") <text>Continent</text>
+            </div>
+            <div class="tsRight">
+                <div class="searchinputContainer align-items-center">
+                    <input id="searchTeam" name="searchTeam" class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<!-- Team -->
+<section id="team" class="pb-5">
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <!-- Team -->
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                        <div class="mainflip">
+                            <div class="frontside">
+                                <div class="card">
+                                    <div class="card-body text-center">
+                                        <p>@Html.Image(item.PhotoUrl, item.PhotoAlt, "300", "160")</p>
+                                        <h4 class="card-title">@Html.DisplayFor(modelItem => item.Name)</h4>
+                                        <p class="card-text">@Html.DisplayFor(modelItem => item.Continent.Name)</p>
+                                        <p class="card-text">Coatch: <b>@Html.DisplayFor(modelItem => item.Coatch)</b></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="backside">
+                                <div class="card">
+                                    <div class="card-body text-center mt-4">
+                                        <h4 class="card-title">@Html.DisplayFor(modelItem => item.Name)</h4>
+                                        <p class="card-text">@Html.DisplayFor(modelItem => item.ShortDescription)</p>
+                                        @Html.ActionLink("View Player List", "Details", new { id = item.Id }, new { @class = "btn btn-outline-success" })
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Team -->
+            }
+        </div>
+    </div>
+</section>
+
+@if (this.User.IsInRole("Admin"))
+{
+    <br />
+
+    <p>
+        @Html.ActionLink("Create New", "Create", new { }, new { @class = "btn btn-success" })
+    </p>
+
+    <br />
+
+    <table class="table">
+        <tr>
+            <th class="sort">
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th class="sort">
+                @Html.DisplayNameFor(model => model.Continent.Name)
+            </th>
+            <th class="sort">
+                @Html.DisplayNameFor(model => model.Coatch)
+            </th>
+            <th class="sort">
+                @Html.DisplayNameFor(model => model.ShortDescription)
+            </th>
+            <th>
+                Flag
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Continent.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Coatch)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ShortDescription)
+                </td>
+                <td>
+                    @Html.Image(item.PhotoUrl, item.PhotoAlt, "85", "40")
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+}
+
+<script>
+    $(document).ready(function () {
+        $('.sort').click(function () {
+            let table = $(this).parents('table').eq(0)
+            let rows = table.find('tr:gt(0)').toArray().sort(comparer($(this).index()))
+            this.asc = !this.asc
+            if (!this.asc) { rows = rows.reverse() }
+            for (let i = 0; i < rows.length; i++) { table.append(rows[i]) }
+        })
+
+        function comparer(index) {
+            return function (a, b) {
+                let valA = getCellValue(a, index), valB = getCellValue(b, index)
+                return $.isNumeric(valA) && $.isNumeric(valB) ? valA - valB : valA.localeCompare(valB)
+            }
+        }
+
+        function getCellValue(row, index) {
+            return $(row).children('td').eq(index).text()
+        }
+    });
+</script>

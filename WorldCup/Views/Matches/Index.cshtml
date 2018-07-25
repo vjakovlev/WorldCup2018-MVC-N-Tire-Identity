@@ -1,0 +1,67 @@
+﻿@using WorldCup.CustomHtmlHelpers
+@using WorldCup.View.Model
+@model IEnumerable<MatchViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div>
+    <h1 id="nationalTeamHeader">WC 2018 Match Schedule</h1>
+</div>
+
+<div>
+    @using (Html.BeginForm("Index", "Matches", FormMethod.Get))
+    {
+        <div class="teamSeacrh">
+            <div class="tsLeft">
+                <b>Search By:</b>
+                @Html.RadioButton("searchByMatch", "TeamA", true) <text>Home Team</text>
+                @Html.RadioButton("searchByMatch", "TeamB") <text>Away Team</text><br />
+            </div>
+            <div class="tsRight">
+                <div class="searchinputContainer align-items-center">
+                    <input id="searchMatch" name="searchMatch" class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@for (int i = 1; i < 31; i++)
+{
+    string date = String.Format("6/{0}/2018 12:00:00 AM", i);
+    string mhid = String.Format("matchHeader{0}", i);
+    string fhid = String.Format("forHide{0}", i);
+
+    <div class="mainMatchHeader">
+        <div id="@mhid" class="matchHeader">
+            @i June
+        </div>
+
+        @* ova mora da bide one liner da raboti :empty delot vo jQuery scriptata podole, zosto praznite mesta koa e podeleno vo novi redovi ne gi smeta za prazen div :) *@
+        <div id="@fhid" class="forHide">@foreach (var item in Model){if (item.Date.ToString() == date){<div class="itemsContainer"><div class="items">&nbsp; Time &nbsp;&nbsp;<b>@Html.DisplayFor(modelItem => item.Time.Hour) : @Html.DisplayFor(modelItem => item.Time.Minute)</b>&nbsp;</div><div class="itemsHomeTeam"><p>@Html.DisplayFor(modelItem => item.TeamA.Name)</p>@Html.Image(item.TeamA.PhotoUrl, item.TeamA.PhotoAlt, "85", "40")</div><div class="itemVS"><img src="~/Images/vs.png" /></div><div class="items">@Html.Image(item.TeamB.PhotoUrl, item.TeamB.PhotoAlt, "85", "40") @Html.DisplayFor(modelItem => item.TeamB.Name)</div><div class="itemScore">Score: &nbsp;<b>@Html.DisplayFor(modelItem => item.TeamAScore) : @Html.DisplayFor(modelItem => item.TeamBScore)</b></div><div class="itemButtons">@Html.ActionLink("Edit", "Edit", new { @id = item.Id }, new { @class = "btn btn-success itemButton" })@Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class = "btn btn-success itemButton" })@Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-success itemButton" })</div></div>}}</div>
+    </div>
+}
+
+
+@if (this.User.IsInRole("Admin"))
+    {
+        <p>
+            @Html.ActionLink("Create New", "Create", new { }, new { @class = "btn btn-success" })
+        </p>
+    }
+    else
+    {
+    }
+
+<script>
+    $(document).ready(function () {
+        for (var i = 1; i < 31; i++) {
+            if ($('div#forHide' + i).is(':empty')) {
+                $('#matchHeader' + i).remove();
+            }
+        }
+    });
+</script>

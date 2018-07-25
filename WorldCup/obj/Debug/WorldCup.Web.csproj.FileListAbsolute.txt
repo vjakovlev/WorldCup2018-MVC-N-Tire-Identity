@@ -1,0 +1,416 @@
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\ApplicationInsights.config
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.dll.config
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.pdb
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\csc.exe
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\csc.exe.config
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\csc.rsp
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\csi.exe
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\csi.exe.config
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\csi.rsp
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.AppContext.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Console.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.IO.Compression.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Security.Claims.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.ValueTuple.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\vbc.exe
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\vbc.exe.config
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\vbc.rsp
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\VBCSCompiler.exe
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Antlr3.Runtime.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\EntityFramework.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\EntityFramework.SqlServer.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AI.Web.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Newtonsoft.Json.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Owin.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.Helpers.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.Mvc.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.Optimization.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.Razor.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.WebPages.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.WebPages.Razor.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\WebGrease.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.Services.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.View.Model.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.Data.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.Data.Model.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.Mapper.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.Services.pdb
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.View.Model.pdb
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Antlr3.Runtime.pdb
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\EntityFramework.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\EntityFramework.SqlServer.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AI.Web.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Newtonsoft.Json.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.Helpers.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.Mvc.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.Razor.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.WebPages.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.WebPages.Razor.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.Optimization.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.Data.pdb
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.Data.dll.config
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.Data.Model.pdb
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.Mapper.pdb
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\obj\Debug\WorldCup.Web.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\obj\Debug\WorldCup.Web.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\obj\Debug\WorldCup.Web.csproj.CopyComplete
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\obj\Debug\WorldCup.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\obj\Debug\WorldCup.pdb
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\ApplicationInsights.config
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.dll.config
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.pdb
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\csc.exe
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\csc.exe.config
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\csc.rsp
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\csi.exe
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\csi.exe.config
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\csi.rsp
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.AppContext.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Console.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.IO.Compression.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.IO.Pipes.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Security.Claims.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.ValueTuple.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Xml.XPath.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\vbc.exe
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\vbc.exe.config
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\vbc.rsp
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\VBCSCompiler.exe
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Antlr3.Runtime.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\EntityFramework.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\EntityFramework.SqlServer.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AI.Web.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.ApplicationInsights.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Newtonsoft.Json.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Owin.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.Helpers.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.Mvc.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.Optimization.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.Razor.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.WebPages.Deployment.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.WebPages.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.WebPages.Razor.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\WebGrease.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.Services.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.View.Model.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.Data.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.Data.Model.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.Mapper.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.Services.pdb
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.View.Model.pdb
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Antlr3.Runtime.pdb
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\EntityFramework.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\EntityFramework.SqlServer.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AI.Web.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Newtonsoft.Json.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.Helpers.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.Mvc.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.Razor.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.WebPages.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.WebPages.Deployment.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.WebPages.Razor.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\System.Web.Optimization.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.Data.pdb
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.Data.dll.config
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.Data.Model.pdb
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\WorldCup.Mapper.pdb
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\obj\Debug\WorldCup.Web.csprojResolveAssemblyReference.cache
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\obj\Debug\WorldCup.Web.csproj.CoreCompileInputs.cache
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\obj\Debug\WorldCup.Web.csproj.CopyComplete
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\obj\Debug\WorldCup.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\obj\Debug\WorldCup.pdb
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\PagedList.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\PagedList.Mvc.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\PagedList.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\bin\PagedList.Mvc.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\PagedList.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\PagedList.Mvc.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\PagedList.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\bin\PagedList.Mvc.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\obj\Debug\WorldCup.Migrations.InitialCreate.resources
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\obj\Debug\WorldCup.Web.csproj.GenerateResource.cache
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup\obj\Debug\WorldCup.Migrations.role.resources
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\obj\Debug\WorldCup.Migrations.InitialCreate.resources
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\obj\Debug\WorldCup.Migrations.role.resources
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup\obj\Debug\WorldCup.Web.csproj.GenerateResource.cache
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\ApplicationInsights.config
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\WorldCup.dll.config
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\WorldCup.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\WorldCup.pdb
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\csc.exe
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\csc.exe.config
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\csc.rsp
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\csi.exe
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\csi.exe.config
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\csi.rsp
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.AppContext.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.Console.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.IO.Compression.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.IO.Pipes.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.Security.Claims.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.ValueTuple.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.Xml.XPath.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\vbc.exe
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\vbc.exe.config
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\vbc.rsp
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\VBCSCompiler.exe
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Antlr3.Runtime.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\EntityFramework.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\EntityFramework.SqlServer.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.AI.Web.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.ApplicationInsights.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.Owin.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.Owin.Security.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Newtonsoft.Json.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Owin.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\PagedList.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\PagedList.Mvc.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\System.Web.Helpers.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\System.Web.Mvc.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\System.Web.Optimization.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\System.Web.Razor.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\System.Web.WebPages.Deployment.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\System.Web.WebPages.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\System.Web.WebPages.Razor.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\WebGrease.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\WorldCup.Services.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\WorldCup.View.Model.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\WorldCup.Data.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\WorldCup.Data.Model.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\WorldCup.Mapper.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\WorldCup.Services.pdb
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\WorldCup.View.Model.pdb
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Antlr3.Runtime.pdb
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\EntityFramework.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\EntityFramework.SqlServer.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.AI.Web.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.Owin.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.Owin.Security.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Newtonsoft.Json.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\PagedList.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\PagedList.Mvc.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\System.Web.Helpers.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\System.Web.Mvc.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\System.Web.Razor.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\System.Web.WebPages.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\System.Web.WebPages.Deployment.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\System.Web.WebPages.Razor.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\System.Web.Optimization.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\WorldCup.Data.pdb
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\WorldCup.Data.dll.config
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\WorldCup.Data.Model.pdb
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\WorldCup.Mapper.pdb
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\obj\Debug\WorldCup.Web.csprojAssemblyReference.cache
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\obj\Debug\WorldCup.Migrations.InitialCreate.resources
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\obj\Debug\WorldCup.Migrations.role.resources
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\obj\Debug\WorldCup.Web.csproj.GenerateResource.cache
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\obj\Debug\WorldCup.Web.csproj.CoreCompileInputs.cache
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\obj\Debug\WorldCup.Web.csproj.CopyComplete
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\obj\Debug\WorldCup.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\obj\Debug\WorldCup.pdb
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\WorldCup.Interfaces.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup\bin\WorldCup.Interfaces.pdb

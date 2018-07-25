@@ -1,0 +1,88 @@
+﻿@using WorldCup.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Log in";
+}
+
+<div>
+    <h1 id="nationalTeamHeader">Log in</h1>
+</div>
+
+<div id="loginAll">
+    <div id="loginContainer">
+
+        @*local*@
+        <div id="login">
+            @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @id = "loginForm", role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+
+                //email
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="loginLabels">
+                    @Html.LabelFor(m => m.Email, new { @class = "row justify-content-center align-items-center" })
+                    <div>
+                        @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div>
+                    @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                </div>
+
+                //password
+                <div>
+                    @Html.LabelFor(m => m.Password, new { @class = "row justify-content-center align-items-center" })
+                    <div>
+                        @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                //remember me?
+                <div>
+                    <div>
+                        <div>
+                            @Html.CheckBoxFor(m => m.RememberMe)
+                            @Html.LabelFor(m => m.RememberMe)
+                        </div>
+                    </div>
+                </div>
+
+                //login button
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Log in" class="btn btn-success" />
+                    </div>
+                </div>
+
+                //forgot password
+                <p>
+                    @Html.ActionLink("Forgot password?", "ForgotPassword", null, new { @id = "forgotPassword" })
+                </p>
+
+                <p>Don't have an account?</p>
+
+                //register
+                <p>
+                    @Html.ActionLink("Register", "Register", null, new { @class = "btn btn-success" })
+                </p>
+            }
+        </div>
+
+        @*external*@
+        <div class="externalLoginTitle">
+            <p>Or sign up using:</p>
+        </div>
+        <div class="externalLogin">
+            @Html.Partial("_ExternalLoginsListPartial", new ExternalLoginListViewModel { ReturnUrl = ViewBag.ReturnUrl })
+        </div>
+
+    </div>
+</div>
+
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

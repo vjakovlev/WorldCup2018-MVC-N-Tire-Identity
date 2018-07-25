@@ -1,0 +1,443 @@
+﻿body {
+    font-family: 'Quicksand', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+#navbarSupportedContent * {
+    color: rgb(81, 165, 69);
+    transition: transform .2s;
+}
+
+.navForHover:hover {
+    color: rgb(81, 165, 69);
+    font-weight: bold;
+    transform: scale(1.2);
+}
+
+#navnav li {
+    margin-left: 8px;
+}
+
+.navbarArrow {
+    width: 12px;
+    height: 12px;
+}
+
+.adminHover {
+    transition: transform .2s;
+}
+
+.adminHover:hover {
+    font-weight: bold;
+    transform: scale(1.1);
+}
+/*header command footer*/
+#mainLogo {
+    padding-left: 15px;
+    padding-right: 30px;
+}
+
+#indexMain {
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#indexMain > * {
+    flex: 1 1 100px;
+}
+
+#indexMain h1 {
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+#indexMain p {
+    text-align: justify;
+    margin: 15px;
+}
+
+#footerUl {
+    display: flex;
+    margin-bottom: 0px;
+}
+
+#footerUl li {
+    list-style-type: none;
+    padding-right: 20px;
+    text-decoration: none;
+}
+
+#footerUl li a i {
+    zoom: 200%;
+}
+
+#footerNav {
+    display: flex;
+}
+
+#footerNav span {
+    margin-left: 45px;
+    color: #319642;
+}
+
+#footerRight {
+    position: absolute;
+    right: 0;
+}
+/*header command footer end*/
+
+
+.searchinputContainer {
+    display: flex;
+    margin-bottom: 5px;
+}
+
+/*Tean View Start*/
+.teamSeacrh {
+    display: flex;
+}
+
+.tsRight {
+    margin-left: auto;
+}
+
+/*Tean View End*/
+
+/*Match View List Start*/
+.mainMatchHeader {
+    position: relative;
+    width: 100%;
+}
+
+.matchHeader {
+    background-color: #EEEEEE;
+    padding: 7px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    color: rgb(80, 80, 80);
+    font-size: 25px;
+}
+
+.itemsContainer {
+    display: flex;
+}
+
+.items {
+    width: 210px;
+    padding: 3px;
+    font-size: 20px;
+}
+
+.itemsHomeTeam {
+    display: flex;
+    justify-content: flex-end;
+    width: 210px;
+    padding: 3px;
+    font-size: 20px;
+}
+
+.itemsHomeTeam p {
+    margin-right: 7px;      
+}
+
+.itemButton {
+    width: 80px;
+    margin-left: 3px;
+    margin-bottom: 2px;
+}
+
+.itemButtons {
+    width: 300px;
+    padding: 3px;
+}
+
+.itemVS {
+    width: 30px;
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+
+.itemScore {
+    width: 110px;
+    margin-right: 22px;
+    margin-top: 4px;
+    font-size: 20px;
+}
+
+.itemsContainer:hover {
+    background-color: rgb(245, 245, 245);
+}
+/*Match View List End*/
+
+/*Team Index View*/
+#nationalTeamHeader {
+    text-align: center;
+    background-color: rgb(66, 166, 69);
+    font-size: 40px;
+    padding: 15px;
+    color: white;
+}
+
+/*Team Boxes Start*/
+#team {
+    background: #eee !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: #108d6f;
+    border-color: #108d6f;
+    box-shadow: none;
+    outline: none;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #007b5e;
+    border-color: #007b5e;
+}
+
+section {
+    padding: 60px 0;
+}
+
+section .section-title {
+    text-align: center;
+    color: #007b5e;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+
+#team .card {
+    border: 2px solid rgb(81, 165, 69);
+    background: #ffffff;
+}
+
+.image-flip:hover .backside,
+.image-flip.hover .backside {
+    -webkit-transform: rotateY(0deg);
+    -moz-transform: rotateY(0deg);
+    -o-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+    border-radius: .25rem;
+}
+
+.image-flip:hover .frontside,
+.image-flip.hover .frontside {
+    -webkit-transform: rotateY(180deg);
+    -moz-transform: rotateY(180deg);
+    -o-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+}
+
+.mainflip {
+    -webkit-transition: 1s;
+    -webkit-transform-style: preserve-3d;
+    -ms-transition: 1s;
+    -moz-transition: 1s;
+    -moz-transform: perspective(1000px);
+    -moz-transform-style: preserve-3d;
+    -ms-transform-style: preserve-3d;
+    transition: 1s;
+    transform-style: preserve-3d;
+    position: relative;
+}
+
+.frontside {
+    position: relative;
+    -webkit-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    z-index: 2;
+    margin-bottom: 30px;
+}
+
+.backside {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: white;
+    -webkit-transform: rotateY(-180deg);
+    -moz-transform: rotateY(-180deg);
+    -o-transform: rotateY(-180deg);
+    -ms-transform: rotateY(-180deg);
+    transform: rotateY(-180deg);
+    -webkit-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+    -moz-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+    box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+}
+
+.frontside,
+.backside {
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transition: 1s;
+    -webkit-transform-style: preserve-3d;
+    -moz-transition: 1s;
+    -moz-transform-style: preserve-3d;
+    -o-transition: 1s;
+    -o-transform-style: preserve-3d;
+    -ms-transition: 1s;
+    -ms-transform-style: preserve-3d;
+    transition: 1s;
+    transform-style: preserve-3d;
+}
+
+.frontside .card,
+.backside .card {
+    min-height: 312px;
+}
+
+.backside .card a {
+    font-size: 18px;
+    color: #007b5e !important;
+}
+
+.frontside .card .card-title,
+.backside .card .card-title {
+    color: #007b5e !important;
+}
+/*Team Boxes End*/
+
+
+/*Team ditails*/
+
+.playerContainer {
+    display: flex;
+    background-color: #EEEEEE;
+    padding: 7px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    color: rgb(80, 80, 80);
+    font-size: 25px;
+}
+
+.playerContainerItem {
+    width: 210px;
+    padding: 3px;
+    font-size: 20px;
+}
+
+/*pagination*/
+.page-link {
+    border: 1px solid #42A645 !important;
+}
+
+.pagination > li.active > a {
+    background: #42A645 !important;
+    color: white !important;
+}
+
+.pagination > li > a {
+    background: white !important;
+    color: #42A645 !important;
+}
+
+/*statistics*/
+#statisticsContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 0px 100px;
+}
+
+#statisticsContainer div {
+    border: 2px solid #42A645;
+    width: 350px;
+    height: 350px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    padding: 15px;
+    cursor: pointer;
+}
+#statisticsContainer div p {
+    font-size: 25px;
+    background-color: #42A645;
+    color: white;
+    text-align: center;
+    padding : 10px 0px;
+}
+
+#statisticsContainer div h1 {
+    color: #42A645;
+    margin-top: 40px;
+    font-size: 140px;
+    text-align: center;
+    transition: transform .2s;
+}
+
+#statisticsContainer div h1:hover {
+    color: #42A645;
+    transform: scale(1.2);
+}
+
+/*Login*/
+#loginAll {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#loginContainer {
+    border: 5px solid #42A645;
+    width: 500px;
+    border-radius: 25px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.externalLogin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.externalLoginTitle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#loginForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+#forgotPassword {
+    color: #42A645;
+}
+
+#login input {
+    border-color: #42A645#42A645;
+}
+
+#registerForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+#registerForm input {
+    margin-left: 28px;
+}
+
+.roleDrop {
+    width: 190px !important;
+    margin-left: 10px;
+    border-color: #42A645;
+}
+
+#registerButton {
+    margin-bottom: 25px;
+    margin-right: 10px;
+}

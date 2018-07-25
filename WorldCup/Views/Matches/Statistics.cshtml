@@ -1,0 +1,33 @@
+﻿@using WorldCup.View.Model
+@model IEnumerable<MatchViewModel>
+
+@*@using WorldCup.View.Model
+    @model MatchViewModel*@
+
+@{
+    ViewBag.Title = "Statistics";
+}
+
+<div>
+    <h1 id="nationalTeamHeader">WC 2018 Statistics</h1>
+</div>
+
+
+<div id="statisticsContainer">
+    <div>
+        <p>Total Mathes</p>
+        <h1>@ViewData["totalMatches"]</h1>
+    </div>
+    <div>
+        <p>Total Goals</p>
+        <h1>@ViewData["total"]</h1>
+    </div>
+    <div>
+        <p>Average Goals per Team</p>
+        <h1>@ViewData["averagePerTeam"]</h1>
+    </div>
+    <div>
+        <p>Average Goals per Match</p>
+        <h1>@ViewData["averagePerMatch"]</h1>
+    </div>
+</div>

@@ -1,0 +1,50 @@
+﻿@using WorldCup.CustomHtmlHelpers;
+@using WorldCup.View.Model
+@model TeamViewModel
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<div>
+    <h1 id="nationalTeamHeader">Player List for @Html.DisplayFor(model => model.Name) @Html.Image(Model.PhotoUrl, Model.PhotoAlt, "85", "40")</h1>
+</div>
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Coatch)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Coatch)
+        </dd>
+    </dl>
+
+    <b><p>Players</p></b>
+
+    @{int number = 1; }
+
+    @foreach (var item in ViewBag.Players)
+    {
+        <div class="playerContainer">
+            <div class="playerContainerItem">@number.</div>
+            <div class="playerContainerItem">Name: <b>@item.Name</b></div>
+            <div class="playerContainerItem">Age: <b>@item.Age</b></div>
+            <div class="playerContainerItem">Position: <b>@item.Position.Name</b></div>
+            <div class="playerContainerItem">Playing for: <b>@item.Team.Name</b></div>
+        </div>
+        
+        number = number + 1;
+    }
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            @Html.ActionLink("Back to List", "Index", new { }, new { @class = "btn btn-success" })
+        </div>
+    }
+</div>
+

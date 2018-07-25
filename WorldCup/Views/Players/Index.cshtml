@@ -1,0 +1,116 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@using WorldCup.View.Model
+@model IPagedList<PlayerViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div>
+    <h1 id="nationalTeamHeader">WC 2018 Player List</h1>
+</div>
+
+<div>
+    @using (Html.BeginForm("Index", "Players", FormMethod.Get))
+    {
+        <div class="teamSeacrh">
+            <div class="tsLeft">
+                <b>Search By:</b>
+                @Html.RadioButton("searchByPlayer", "Name", true) <text>Name</text>
+                @Html.RadioButton("searchByPlayer", "Age") <text>Age</text>
+                @Html.RadioButton("searchByPlayer", "Team") <text>Team</text>
+                @Html.RadioButton("searchByPlayer", "Position") <text>Position</text><br />
+            </div>
+            <div class="tsRight">
+                <div class="searchinputContainer align-items-center">
+                    <input id="searchPlayer" name="searchPlayer" class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<table class="table">
+    <tr>
+        <th class="sort">
+            @Html.DisplayNameFor(model => model.First().Name)
+        </th>
+        <th class="sort">
+            @Html.DisplayNameFor(model => model.First().Age)
+        </th>
+        <th class="sort">
+            Team
+        </th>
+        <th class="sort">
+            Position
+        </th>
+        <th class="sort">
+            Action
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Team.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Position.Name)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-success itemButton" })
+                @Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class = "btn btn-success itemButton" })
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-success itemButton" })
+            </td>
+        </tr>
+    }
+</table>
+<div id="pagination">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page, searchByPlayer = Request.QueryString["searchByPlayer"], searchPlayer = Request.QueryString["searchPlayer"] }))
+</div>
+
+@if (this.User.IsInRole("Admin"))
+{
+    <p>
+        @Html.ActionLink("Create New", "Create", new { }, new { @class = "btn btn-success" })
+    </p>
+}
+else
+{
+}
+
+<script>
+    $("#pagination").children().children().addClass("pagination pagination-sm");
+    $("#pagination").children().children().children().addClass("page-item");
+    $("#pagination").children().children().children().children().addClass("page-link");
+
+    $(document).ready(function () {
+        $('.sort').click(function () {
+            let table = $(this).parents('table').eq(0)
+            let rows = table.find('tr:gt(0)').toArray().sort(comparer($(this).index()))
+            this.asc = !this.asc
+            if (!this.asc) { rows = rows.reverse() }
+            for (let i = 0; i < rows.length; i++) { table.append(rows[i]) }
+        })
+
+        function comparer(index) {
+            return function (a, b) {
+                let valA = getCellValue(a, index), valB = getCellValue(b, index)
+                return $.isNumeric(valA) && $.isNumeric(valB) ? valA - valB : valA.localeCompare(valB)
+            }
+        }
+
+        function getCellValue(row, index) {
+            return $(row).children('td').eq(index).text()
+        }
+    });
+</script>

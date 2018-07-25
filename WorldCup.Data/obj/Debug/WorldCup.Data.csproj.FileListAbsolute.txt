@@ -1,0 +1,44 @@
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup.Data\bin\Debug\WorldCup.Data.dll.config
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup.Data\bin\Debug\WorldCup.Data.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup.Data\bin\Debug\WorldCup.Data.pdb
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup.Data\bin\Debug\EntityFramework.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup.Data\bin\Debug\WorldCup.Data.Model.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup.Data\bin\Debug\WorldCup.Data.Model.pdb
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup.Data\bin\Debug\EntityFramework.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup.Data\obj\Debug\WorldCup.Data.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup.Data\obj\Debug\WorldCup.Data.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup.Data\obj\Debug\WorldCup.Data.csproj.CopyComplete
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup.Data\obj\Debug\WorldCup.Data.dll
+C:\Users\Viktor\Desktop\Final Project\WorldCup\WorldCup.Data\obj\Debug\WorldCup.Data.pdb
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup.Data\bin\Debug\WorldCup.Data.dll.config
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup.Data\bin\Debug\WorldCup.Data.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup.Data\bin\Debug\WorldCup.Data.pdb
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup.Data\bin\Debug\EntityFramework.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup.Data\bin\Debug\WorldCup.Data.Model.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup.Data\bin\Debug\WorldCup.Data.Model.pdb
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup.Data\bin\Debug\EntityFramework.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup.Data\obj\Debug\WorldCup.Data.csprojResolveAssemblyReference.cache
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup.Data\obj\Debug\WorldCup.Data.csproj.CoreCompileInputs.cache
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup.Data\obj\Debug\WorldCup.Data.csproj.CopyComplete
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup.Data\obj\Debug\WorldCup.Data.dll
+C:\Users\viceb\Desktop\Final Project\WorldCup\WorldCup.Data\obj\Debug\WorldCup.Data.pdb
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data\bin\Debug\WorldCup.Data.dll.config
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data\bin\Debug\WorldCup.Data.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data\bin\Debug\WorldCup.Data.pdb
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data\bin\Debug\EntityFramework.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data\bin\Debug\WorldCup.Data.Model.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data\bin\Debug\WorldCup.Data.Model.pdb
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data\bin\Debug\EntityFramework.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data\obj\Debug\WorldCup.Data.csprojAssemblyReference.cache
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data\obj\Debug\WorldCup.Data.csproj.CoreCompileInputs.cache
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data\obj\Debug\WorldCup.Data.csproj.CopyComplete
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data\obj\Debug\WorldCup.Data.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data\obj\Debug\WorldCup.Data.pdb
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data\bin\Debug\WorldCup.Interfaces.dll
+C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data\bin\Debug\WorldCup.Interfaces.pdb

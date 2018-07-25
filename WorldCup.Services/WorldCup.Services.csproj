@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DE232BA9-8A51-4F90-BAC6-99429FCBC14B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WorldCup.Services</RootNamespace>
+    <AssemblyName>WorldCup.Services</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ContinentServices.cs" />
+    <Compile Include="MatchServices.cs" />
+    <Compile Include="PlayerServices.cs" />
+    <Compile Include="PositionServices.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TeamServices.cs" />
+    <Compile Include="WorldCupDatabaseInitializer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WorldCup.Data.Model\WorldCup.Data.Model.csproj">
+      <Project>{340fa502-ecff-4d87-a783-f208c04af17f}</Project>
+      <Name>WorldCup.Data.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WorldCup.Data\WorldCup.Data.csproj">
+      <Project>{03779ef1-f5e1-494f-99b5-5ceecf094567}</Project>
+      <Name>WorldCup.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WorldCup.Interfaces\WorldCup.Interfaces.csproj">
+      <Project>{dd56a6c0-5c28-4777-a648-9becf22c7d89}</Project>
+      <Name>WorldCup.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WorldCup.Mapper\WorldCup.Mapper.csproj">
+      <Project>{eceaa4c2-b623-43cd-8a01-149cc924fae3}</Project>
+      <Name>WorldCup.Mapper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WorldCup.View.Model\WorldCup.View.Model.csproj">
+      <Project>{53c120bd-e7b5-45a0-8958-d69cfd2f421c}</Project>
+      <Name>WorldCup.View.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
