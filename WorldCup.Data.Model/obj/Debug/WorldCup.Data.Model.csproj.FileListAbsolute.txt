@@ -16,3 +16,9 @@ C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data.Mod
 C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data.Model\obj\Debug\WorldCup.Data.Model.csproj.CoreCompileInputs.cache
 C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data.Model\obj\Debug\WorldCup.Data.Model.dll
 C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Data.Model\obj\Debug\WorldCup.Data.Model.pdb
+C:\Users\Viktor\Desktop\WorldCup2018-MVC-N-Tire-Identity\WorldCup.Data.Model\bin\Debug\WorldCup.Data.Model.dll
+C:\Users\Viktor\Desktop\WorldCup2018-MVC-N-Tire-Identity\WorldCup.Data.Model\bin\Debug\WorldCup.Data.Model.pdb
+C:\Users\Viktor\Desktop\WorldCup2018-MVC-N-Tire-Identity\WorldCup.Data.Model\obj\Debug\WorldCup.Data.Model.csprojAssemblyReference.cache
+C:\Users\Viktor\Desktop\WorldCup2018-MVC-N-Tire-Identity\WorldCup.Data.Model\obj\Debug\WorldCup.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\WorldCup2018-MVC-N-Tire-Identity\WorldCup.Data.Model\obj\Debug\WorldCup.Data.Model.dll
+C:\Users\Viktor\Desktop\WorldCup2018-MVC-N-Tire-Identity\WorldCup.Data.Model\obj\Debug\WorldCup.Data.Model.pdb

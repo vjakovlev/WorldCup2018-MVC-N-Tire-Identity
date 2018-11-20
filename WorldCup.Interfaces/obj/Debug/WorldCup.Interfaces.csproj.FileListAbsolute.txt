@@ -7,3 +7,12 @@ C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Interfac
 C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Interfaces\obj\Debug\WorldCup.Interfaces.csproj.CopyComplete
 C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Interfaces\obj\Debug\WorldCup.Interfaces.dll
 C:\Users\viceb\Desktop\WorldCup2018-MVC-N-Tire-Identity-master\WorldCup.Interfaces\obj\Debug\WorldCup.Interfaces.pdb
+C:\Users\Viktor\Desktop\WorldCup2018-MVC-N-Tire-Identity\WorldCup.Interfaces\bin\Debug\WorldCup.Interfaces.dll
+C:\Users\Viktor\Desktop\WorldCup2018-MVC-N-Tire-Identity\WorldCup.Interfaces\bin\Debug\WorldCup.Interfaces.pdb
+C:\Users\Viktor\Desktop\WorldCup2018-MVC-N-Tire-Identity\WorldCup.Interfaces\bin\Debug\WorldCup.Data.Model.dll
+C:\Users\Viktor\Desktop\WorldCup2018-MVC-N-Tire-Identity\WorldCup.Interfaces\bin\Debug\WorldCup.Data.Model.pdb
+C:\Users\Viktor\Desktop\WorldCup2018-MVC-N-Tire-Identity\WorldCup.Interfaces\obj\Debug\WorldCup.Interfaces.csprojAssemblyReference.cache
+C:\Users\Viktor\Desktop\WorldCup2018-MVC-N-Tire-Identity\WorldCup.Interfaces\obj\Debug\WorldCup.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\WorldCup2018-MVC-N-Tire-Identity\WorldCup.Interfaces\obj\Debug\WorldCup.Interfaces.csproj.CopyComplete
+C:\Users\Viktor\Desktop\WorldCup2018-MVC-N-Tire-Identity\WorldCup.Interfaces\obj\Debug\WorldCup.Interfaces.dll
+C:\Users\Viktor\Desktop\WorldCup2018-MVC-N-Tire-Identity\WorldCup.Interfaces\obj\Debug\WorldCup.Interfaces.pdb
